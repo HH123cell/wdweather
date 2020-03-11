@@ -181,4 +181,12 @@ git状态撤销
     撤销命令：
       将本地仓库恢复上一个版本：git reset --hard HEAD^
       强制更新远程仓库：git push -f
-```txt
+```
+
+```javascript
+var a=1;
+function(){
+    var b=0;
+    return a-b;
+}
+```
