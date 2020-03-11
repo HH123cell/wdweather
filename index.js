@@ -7,6 +7,8 @@ window.onload = function () {
   
     console.log('loaded');
     function fn2(){
+
+      
         var b = 2;
         return b;
     }
